@@ -1,4 +1,5 @@
 # Compiler files
+artifacts
 cache/
 out/
 
@@ -12,3 +13,9 @@ docs/
 
 # Dotenv file
 .env
+
+# Node modules
+node_modules/
+
+# Misc
+.vscode
